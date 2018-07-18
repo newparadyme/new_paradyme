@@ -1,3 +1,6 @@
+# Channels
+https://hexdocs.pm/phoenix/channels.html#content
+
 # NewParadyme
 
 To start your Phoenix app:
