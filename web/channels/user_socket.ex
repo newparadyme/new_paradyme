@@ -2,7 +2,7 @@ defmodule NewParadyme.UserSocket do
   use Phoenix.Socket
 
   ## Channels
-  # channel "room:*", NewParadyme.RoomChannel
+  channel "room:*", NewParadyme.RoomChannel
 
   ## Transports
   transport :websocket, Phoenix.Transports.WebSocket
